@@ -1,0 +1,24 @@
+# Qt-generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.o
+*.obj
+moc_predefs.h
+.qmake.stash
+Makefile
+
+# Build artifacts
+ContactBook
+build/
+*.exe
+*.app
+
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+
+# Temporary files
+*~
+*.swp
+*.swo
